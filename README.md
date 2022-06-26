@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @damienpham
+- 👀 I’m interested in tech
+- 💞️ I’m looking to collaborate on automation
